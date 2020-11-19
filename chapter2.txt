@@ -1,0 +1,1 @@
+Yahoo, I completed my first git commit adding chapter 1.
